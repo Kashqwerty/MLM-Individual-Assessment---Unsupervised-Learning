@@ -1,5 +1,5 @@
 # **Supervised Learning Analysis**
-This repository contains a Jupyter Notebook that explores **Supervised Learning models** using a dataset of 5001 records. The analysis includes **data preprocessing, feature engineering, model training, evaluation, and recommendations**.
+This repository contains a Jupyter Notebook that explores **Supervised Learning models** using a dataset of 5001 records. The analysis includes **data preprocessing, model training, evaluation, and recommendations**.
 
 ## **Project Overview**
 The project applies various supervised machine learning models to classify data and assess their performance using different metrics. The models analyzed include:
